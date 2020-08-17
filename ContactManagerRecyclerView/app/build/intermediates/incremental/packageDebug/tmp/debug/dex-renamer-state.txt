@@ -1,0 +1,4 @@
+#Sun Jul 12 20:03:44 IST 2020
+base.0=/Users/mohitkulkarni/AndroidStudioProjects/ContactManagerRecyclerView/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

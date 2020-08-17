@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="button_next">Next</string>
+    <string name="Name">TextView</string>
+    <string name="btn_back">Back</string>
+</resources>

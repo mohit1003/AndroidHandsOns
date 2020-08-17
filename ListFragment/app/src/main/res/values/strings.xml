@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListFragment</string>
+    <string name="hello_from_fragment">Hello from fragment!</string>
+</resources>

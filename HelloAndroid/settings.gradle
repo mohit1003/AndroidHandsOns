@@ -1,0 +1,4 @@
+include ':LearnJava'
+include ':mylibrary'
+include ':app'
+rootProject.name = "Hello Android"
